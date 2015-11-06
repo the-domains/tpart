@@ -1,0 +1,23 @@
+name: TPart
+favicon: null
+layout_spectrum: 0.38951937947422266
+typography_spectrum: 0.457894641906023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10771965282037854
+  lightness: 0.27555370470508933
+  saturation: 0.5023973498027772
+  rhythmicContrast: 0.7369065950624645
+purpose: []
