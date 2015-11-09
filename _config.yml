@@ -6,7 +6,7 @@ color:
     - '#000000'
     - '#F08000'
     - '#F8C890'
-  brandStrength: 1
+  brandStrength: 0.987612
   lightness: 0.275553
   rhythmicContrast: 0.736906
   saturation: 0.502397
@@ -15,4 +15,4 @@ layout_spectrum: 0
 name: TPart
 opengraph: {}
 purpose: []
-typography_spectrum: 0.716216
+typography_spectrum: 0.587837
