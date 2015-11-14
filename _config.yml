@@ -1,4 +1,20 @@
-analytics: {}
+name: TPart
+favicon: null
+layout_spectrum: 0.5
+typography_spectrum: 0.587837
+title: Tibor Papp Art
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,11 +24,6 @@ color:
     - '#F8C890'
   brandStrength: 0.987612
   lightness: 0.275553
-  rhythmicContrast: 0.736906
   saturation: 0.502397
-cta: {}
-layout_spectrum: 0
-name: TPart
-opengraph: {}
+  rhythmicContrast: 0.736906
 purpose: []
-typography_spectrum: 0.587837
