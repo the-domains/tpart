@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tibor Papp Art]]></title>
         <description><![CDATA[Tibor Papp Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tpart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 20:07:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 22:26:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tpart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Virtul Reality</p>]]></description>
-            <link>undefined11daa3f6-5c3e-4384-91ee-1998303b69bf/index.html</link>
+            <title><![CDATA[TPapp Art]]></title>
+            <description><![CDATA[<article><h1>TPapp Art</h1><p>Portfolio</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dda383c9-752e-4210-b4f7-93259afa8c23.png"></article>]]></description>
+            <link>https://thegrid.ai/tpart/11daa3f6-5c3e-4384-91ee-1998303b69bf/index.html</link>
             <guid isPermaLink="false">11daa3f6-5c3e-4384-91ee-1998303b69bf</guid>
-            <pubDate>Sat, 14 Nov 2015 20:06:48 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 22:26:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
